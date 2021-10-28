@@ -1,2 +1,6 @@
-## Hi there :U+1F600:   
-Currently learning: 
+### Hi there 😄   
+
+Languages & tools: 
+
+Currently learning:
+
