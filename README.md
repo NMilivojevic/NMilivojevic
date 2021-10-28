@@ -1,4 +1,4 @@
-### Hi there 😄   
+### Hi there 👋  
 
 Striving towards getting the front-end under the belt.
 
