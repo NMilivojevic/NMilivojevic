@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-Striving towards getting the front-end under the belt.&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)    
+Striving towards getting the Front-end under the belt.&nbsp;&nbsp;[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)    
 
 
 Learning:
