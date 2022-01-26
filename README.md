@@ -2,6 +2,8 @@
 
 [![Html Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) 
 &nbsp;&nbsp;
+[![Css Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=1572B6)](#) 
+&nbsp;&nbsp;
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 &nbsp;&nbsp;
 
