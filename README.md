@@ -1,4 +1,15 @@
-### Hi there 👋  
+Software engineer & frontend specialist
+
+Building production web applications end-to-end — from architecture and CI/CD to pixel-perfect UI.
+
+## Core Stack
+
+- **Frontend:** TypeScript · React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · MUI
+- **Backend:** Node.js · Express · MongoDB · REST APIs · AWS S3
+- **Auth:** Keycloak · OAuth 2.0 · JWT
+- **DevOps:** Docker · GitLab CI/CD · Linux
+
+BSc in Computer Science
 <!--
 [![Html Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) 
 &nbsp;&nbsp;
