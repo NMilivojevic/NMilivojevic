@@ -1,4 +1,4 @@
-Software engineer & frontend specialist
+Software engineer & Frontend specialist
 
 Building production web applications end-to-end — from architecture and CI/CD to pixel-perfect UI.
 
