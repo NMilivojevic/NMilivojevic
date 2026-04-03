@@ -7,7 +7,7 @@ Building production web applications end-to-end — from architecture and CI/CD 
 - **Frontend:** TypeScript · React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · MUI
 - **Backend:** Node.js · Express · MongoDB · REST APIs · AWS S3
 - **Auth:** Keycloak · OAuth 2.0 · JWT
-- **DevOps:** Docker · GitLab CI/CD · Linux
+- **DevOps:** Docker · GitLab CI/CD · Git · Linux
 
 BSc in Computer Science
 <!--
