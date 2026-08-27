@@ -1,12 +1,17 @@
-Software Engineer & Frontend Specialist
+Fullstack Developer
 
-Building production web applications end-to-end — from architecture and CI/CD to pixel-perfect UI.
+I build and ship production web applications end-to-end — from architecture and CI/CD to pixel-perfect UI.
 
 ## Core Stack
 
-- **Frontend:** TypeScript · React · Next.js · JavaScript · MUI · ChakraUI · TanStack
-- **Backend:** Node.js · Express · MongoDB · Mongoose · REST APIs
-- **DevOps:** Docker · GitLab CI/CD · Git · Linux
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Redux Toolkit, TanStack Query, TanStack Table, React Hook Form, Zod, Zustand, Material UI, Chakra UI, Tailwind CSS, Framer Motion, GSAP, i18next, Vite, Sass, D3, Apollo Client
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, GraphQL, Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Celery, AWS S3, Google Cloud
+- **DevOps:** Docker, GitLab CI/CD, Bitbucket Pipelines, Linux
+- **Tools:** Git, Vim, Figma
+- **Testing:** Cypress, Vitest, React Testing Library, Storybook
+- **Auth:** Keycloak, OAuth 2.0, JWT, bcrypt
+- **Web3:** Wagmi, Ethereum
 
 BSc in Computer Science
 <!--
