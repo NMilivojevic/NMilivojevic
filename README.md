@@ -1,6 +1,6 @@
 Fullstack Developer
 
-I build and ship production web applications end-to-end — from architecture and CI/CD to pixel-perfect UI.
+I build and ship production web applications end-to-end, from architecture and CI/CD to pixel-perfect UI.
 
 ## Core Stack
 
