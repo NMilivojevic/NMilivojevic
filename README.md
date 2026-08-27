@@ -2,7 +2,7 @@ Fullstack Developer
 
 I build and ship production web applications end-to-end, from architecture and CI/CD to pixel-perfect UI.
 
-## Core Stack
+## Stack
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React, Next.js, Redux Toolkit, TanStack Query, TanStack Table, React Hook Form, Zod, Zustand, Material UI, Chakra UI, Tailwind CSS, Framer Motion, GSAP, i18next, Vite, Sass, D3, Apollo Client
